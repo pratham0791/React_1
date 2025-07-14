@@ -41,6 +41,7 @@ function About() {
       <br />
       <br />
       <button className='bg-blue-400 px-8 py-2 text-white cursor-pointer rounded-2xl'>Learn More</button>
+      <button className='bg-amber-300 px-10 py-3 text-2xl text-white cursor-pointer rounded-2xl'>Pratham</button>
     </p>
   </div>
 </div>
